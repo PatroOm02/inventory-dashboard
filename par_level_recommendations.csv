@@ -1,0 +1,97 @@
+Bar Name,Brand Name,Forecast (ml/week),Safety Stock (ml),Recommended Par Level (ml)
+Anderson's Bar,Absolut,400.39,820.74,1221.13
+Anderson's Bar,Bacardi,930.44,962.86,1893.3
+Anderson's Bar,Barefoot,353.49,181.47,534.96
+Anderson's Bar,Budweiser,0.0,0.0,0.0
+Anderson's Bar,Captain Morgan,502.92,595.58,1098.49
+Anderson's Bar,Coors,755.66,871.29,1626.95
+Anderson's Bar,Grey Goose,394.65,395.4,790.05
+Anderson's Bar,Heineken,473.66,173.87,647.53
+Anderson's Bar,Jack Daniels,403.76,316.62,720.37
+Anderson's Bar,Jameson,573.77,434.1,1007.87
+Anderson's Bar,Jim Beam,788.77,874.06,1662.84
+Anderson's Bar,Malibu,43.76,144.42,188.18
+Anderson's Bar,Miller,209.9,373.67,583.56
+Anderson's Bar,Smirnoff,671.26,1073.29,1744.56
+Anderson's Bar,Sutter Home,746.79,739.27,1486.06
+Anderson's Bar,Yellow Tail,362.52,499.76,862.28
+Brown's Bar,Absolut,307.66,297.44,605.1
+Brown's Bar,Bacardi,555.07,408.33,963.4
+Brown's Bar,Barefoot,620.31,266.92,887.23
+Brown's Bar,Budweiser,514.2,489.62,1003.81
+Brown's Bar,Captain Morgan,404.73,554.89,959.62
+Brown's Bar,Coors,1097.68,1339.64,2437.32
+Brown's Bar,Grey Goose,274.82,451.71,726.52
+Brown's Bar,Heineken,596.28,661.04,1257.32
+Brown's Bar,Jack Daniels,164.73,543.62,708.35
+Brown's Bar,Jameson,698.1,726.41,1424.51
+Brown's Bar,Jim Beam,340.46,498.9,839.36
+Brown's Bar,Malibu,948.58,863.01,1811.59
+Brown's Bar,Miller,258.25,228.79,487.04
+Brown's Bar,Smirnoff,325.58,570.77,896.35
+Brown's Bar,Sutter Home,293.0,452.62,745.63
+Brown's Bar,Yellow Tail,867.42,1118.13,1985.55
+Johnson's Bar,Absolut,532.57,81.43,614.0
+Johnson's Bar,Bacardi,418.23,304.36,722.59
+Johnson's Bar,Barefoot,366.56,505.34,871.9
+Johnson's Bar,Budweiser,582.86,130.04,712.9
+Johnson's Bar,Captain Morgan,663.53,551.55,1215.07
+Johnson's Bar,Coors,511.32,597.63,1108.95
+Johnson's Bar,Grey Goose,708.51,1293.15,2001.65
+Johnson's Bar,Heineken,516.47,602.98,1119.45
+Johnson's Bar,Jack Daniels,478.98,547.22,1026.2
+Johnson's Bar,Jameson,362.15,455.91,818.06
+Johnson's Bar,Jim Beam,598.53,538.32,1136.85
+Johnson's Bar,Malibu,577.8,396.88,974.69
+Johnson's Bar,Miller,326.08,672.07,998.15
+Johnson's Bar,Smirnoff,602.91,425.24,1028.15
+Johnson's Bar,Sutter Home,503.24,688.15,1191.4
+Johnson's Bar,Yellow Tail,589.72,407.43,997.16
+Smith's Bar,Absolut,338.6,338.02,676.62
+Smith's Bar,Bacardi,677.31,916.23,1593.54
+Smith's Bar,Barefoot,557.05,279.13,836.18
+Smith's Bar,Budweiser,478.48,336.32,814.8
+Smith's Bar,Captain Morgan,365.6,437.51,803.12
+Smith's Bar,Coors,448.94,392.9,841.84
+Smith's Bar,Grey Goose,783.68,622.8,1406.47
+Smith's Bar,Heineken,567.96,591.69,1159.65
+Smith's Bar,Jack Daniels,388.74,404.78,793.52
+Smith's Bar,Jameson,614.69,709.46,1324.15
+Smith's Bar,Jim Beam,420.16,341.38,761.55
+Smith's Bar,Malibu,471.37,1133.73,1605.11
+Smith's Bar,Miller,509.16,536.55,1045.71
+Smith's Bar,Smirnoff,614.78,672.05,1286.83
+Smith's Bar,Sutter Home,479.18,492.24,971.42
+Smith's Bar,Yellow Tail,587.02,827.79,1414.8
+Taylor's Bar,Absolut,437.66,497.41,935.06
+Taylor's Bar,Bacardi,292.81,558.2,851.01
+Taylor's Bar,Barefoot,365.93,344.91,710.84
+Taylor's Bar,Budweiser,427.07,280.61,707.68
+Taylor's Bar,Captain Morgan,634.26,616.27,1250.54
+Taylor's Bar,Coors,347.79,291.8,639.59
+Taylor's Bar,Grey Goose,672.6,692.55,1365.16
+Taylor's Bar,Heineken,373.64,275.85,649.48
+Taylor's Bar,Jack Daniels,473.43,161.12,634.55
+Taylor's Bar,Jameson,656.12,905.04,1561.16
+Taylor's Bar,Jim Beam,700.76,413.74,1114.51
+Taylor's Bar,Malibu,685.25,543.75,1229.01
+Taylor's Bar,Miller,0.0,0.0,0.0
+Taylor's Bar,Smirnoff,846.58,503.59,1350.17
+Taylor's Bar,Sutter Home,473.52,976.67,1450.19
+Taylor's Bar,Yellow Tail,660.72,656.2,1316.92
+Thomas's Bar,Absolut,393.3,559.19,952.49
+Thomas's Bar,Bacardi,388.4,362.55,750.95
+Thomas's Bar,Barefoot,569.54,649.54,1219.08
+Thomas's Bar,Budweiser,675.57,507.09,1182.66
+Thomas's Bar,Captain Morgan,515.87,616.74,1132.61
+Thomas's Bar,Coors,528.6,165.5,694.1
+Thomas's Bar,Grey Goose,835.69,347.15,1182.84
+Thomas's Bar,Heineken,515.12,474.33,989.45
+Thomas's Bar,Jack Daniels,505.44,362.98,868.42
+Thomas's Bar,Jameson,222.91,735.59,958.5
+Thomas's Bar,Jim Beam,226.02,94.44,320.45
+Thomas's Bar,Malibu,556.64,222.74,779.39
+Thomas's Bar,Miller,530.9,313.87,844.76
+Thomas's Bar,Smirnoff,545.5,607.89,1153.38
+Thomas's Bar,Sutter Home,109.64,239.44,349.08
+Thomas's Bar,Yellow Tail,500.1,161.29,661.39
