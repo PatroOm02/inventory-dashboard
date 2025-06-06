@@ -25,7 +25,7 @@ This project is an intelligent inventory management system designed for a hotel 
    Next week’s demand is predicted using the last 4 weeks’ average consumption.
 
 3. **Par Level Calculation**  
-   A safety buffer is added based on v
+   A safety buffer is added based on variability in demand using a z-score of 1.65 (95% confidence).
 ---
 
 
@@ -48,17 +48,12 @@ A bar manager selects their location and a specific alcohol brand in the dashboa
 
 ---
 
-## 🧠 Author
 
-Built by [Your Name] – Final Year IT Student @ VIT Vellore  
-📬 Contact: [your email] (optional)
-
----
 
 ## 📄 License
 
 MIT License
-ariability in demand using a z-score of 1.65 (95% confidence).
+
 
 
 
