@@ -28,15 +28,6 @@ This project is an intelligent inventory management system designed for a hotel 
    A safety buffer is added based on v
 ---
 
-## 📷 Screenshots
-
-| Forecasting & Summary Cards | Weekly Usage Trend |
-|----------------------------|---------------------|
-| ![metrics](./screenshots/metrics.png) | ![plot](./screenshots/plot.png) |
-
-> *(Optional: add actual screenshots to `/screenshots` folder in GitHub)*
-
----
 
 ## 📈 Example Use Case
 
@@ -69,17 +60,5 @@ Built by [Your Name] – Final Year IT Student @ VIT Vellore
 MIT License
 ariability in demand using a z-score of 1.65 (95% confidence).
 
-4. **Simulation**  
-   Inventory performance is simulated week-by-week to show stockouts and overstock scenarios.
-
----
-
-## 📁 Project Structure
-
-├── app.py # Streamlit app script
-├── requirements.txt # Python dependencies for deployment
-├── filtered_weekly.csv # Weekly usage per bar-brand
-├── par_level_recommendations.csv # Forecast + safety stock
-├── inventory_simulation_results.csv # Simulation output
 
 
